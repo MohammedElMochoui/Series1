@@ -1,0 +1,13 @@
+// complexity 2
+
+class HelloWorl5 {
+	public static void main(String[] args) {
+		System.out.println("Hello, World!");
+
+		boolean a = true;
+
+		if (a) {
+
+		}
+	}
+}
